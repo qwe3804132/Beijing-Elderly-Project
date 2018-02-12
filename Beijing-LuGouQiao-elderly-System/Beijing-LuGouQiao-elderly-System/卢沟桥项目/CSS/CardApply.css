@@ -1,0 +1,27 @@
+﻿body {
+}
+.title
+{
+    font-size:25px;
+    color:#38a0c7;
+    margin-left:50px;
+    margin-top:0;
+}
+.text
+{
+    width:600px;
+    height:300px;
+    margin-left:200px;
+    margin-top:0px;
+    color:#88a3a2;
+}
+.bottom
+{
+    margin-left:200px;
+}
+    .bottom #btn_ok
+    {
+        margin-left:150px;
+        height:25px;
+        background-color:#38a0c7;
+    }

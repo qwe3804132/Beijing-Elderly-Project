@@ -1,0 +1,20 @@
+﻿body {
+    font-family:arial, 'Microsoft Yahei', '微软雅黑';
+}
+.btn {
+    background-color:#b1babf;
+    border:0px;
+    color:white;
+    margin-top:5px;
+}
+.lab
+{
+    height:30px;
+    width:155px;
+    text-align:center ;
+    line-height:30px;
+    color:#5c97de;
+    font-size:14pt;
+    margin-top:5px;
+    border:0px;
+}
