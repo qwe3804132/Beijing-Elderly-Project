@@ -1,2 +1,15 @@
 
-This is my undergraduate graduation thesis, a three-layer architecture MVC community management system for the elderly, which contains a lot of data processing and analysis. Thank you for your reading.
+A three-layer architecture MVC community management system for the elderly, which contains a lot of data processing and analysis. 
+
+Technical involved:
+
+Three-tier architecture software design
+MVC5
+JavaScript
+Data Binding
+HTML5
+Data visualization
+Data prediction, linear distribution curve
+
+
+
