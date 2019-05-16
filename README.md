@@ -2,13 +2,13 @@ Three-layer architecture MVC community management system for the elderly, which 
 
 Technical involved:
 
-Three-tier architecture software design
-MVC5
-JavaScript
-Data Binding
-HTML5
-Data visualization
-Data prediction, linear distribution curve
+Three-tier architecture software design  
+MVC5  
+JavaScript  
+Data Binding  
+HTML5  
+Data visualization  
+Data prediction, linear distribution curve  
 
 
 
