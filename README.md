@@ -1,5 +1,4 @@
-
-A three-layer architecture MVC community management system for the elderly, which contains a lot of data processing and analysis. 
+Three-layer architecture MVC community management system for the elderly, which contains a lot of data processing and analysis. 
 
 Technical involved:
 
